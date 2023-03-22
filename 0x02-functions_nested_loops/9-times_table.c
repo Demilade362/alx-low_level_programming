@@ -7,7 +7,7 @@
  * Return: Always (0).
  */
 
-void times_table(void)
+void print_times_table(void)
 {
     int i, j, product;
 
